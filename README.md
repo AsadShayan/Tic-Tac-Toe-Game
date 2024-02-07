@@ -59,7 +59,7 @@ Contributions are highly appreciated! If you have any ideas for improvements or 
 
 ## 📝 License
 
-This project is licensed under the MIT License. Feel free to explore the code, modify it, and share it with others. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. Feel free to explore the code, modify it, and share it with others. See the [LICENSE](License) file for more details.
 
 ---
 
